@@ -1,1 +1,2 @@
-write-host "Hello World"
+Write-Host "Hello World"
+Write-Host "Line #2"
